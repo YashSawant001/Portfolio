@@ -22,7 +22,7 @@ I will update it weekly with projects, notebooks, and apps.
 ---
 
 ## 📬 Contact
-- LinkedIn: [Your LinkedIn Profile URL]  
+- LinkedIn:   
 - Email: yashsawant808@gmail.com
 
 ---
