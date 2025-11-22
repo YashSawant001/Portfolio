@@ -1,9 +1,8 @@
 # Portfolio
 
-👋 Hi, I'm Yash — Computer Science Student | AI/ML Learner  
+👋 Hi, I'm Yash — Computer Science Student | AI/ML Learner
 
-This repository tracks my journey to becoming an **AI Full Stack Developer**.  
-I will update it weekly with projects, notebooks, and apps.
+This repository showcases my AI/ML projects journey. I will update it weekly with projects, notebooks, and applications.
 
 ---
 
@@ -15,16 +14,12 @@ I will update it weekly with projects, notebooks, and apps.
 ---
 
 ## 📂 Structure
-- `/basics` → Python practice and data handling notebooks  
-- `/ml-projects` → Machine learning models and experiments  
+- `/basics` → Python practice and data handling notebooks
+- `/ml-projects` → Machine learning models and experiments
 - `/apps` → Deployed AI apps (Flask, Streamlit, etc.)
 
 ---
 
 ## 📬 Contact
-- LinkedIn:   
+- LinkedIn:
 - Email: yashsawant808@gmail.com
-
----
-
-⭐ Stay tuned as I build step by step!
